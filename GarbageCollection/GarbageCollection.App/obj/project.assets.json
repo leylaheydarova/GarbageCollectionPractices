@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GarbageCollection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GarbageCollection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GarbageCollection.dll": {}
+        }
+      },
+      "MemoryLeak/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MemoryLeak.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MemoryLeak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GarbageCollection/1.0.0": {
+      "type": "project",
+      "path": "../GarbageCollection/GarbageCollection.csproj",
+      "msbuildProject": "../GarbageCollection/GarbageCollection.csproj"
+    },
+    "MemoryLeak/1.0.0": {
+      "type": "project",
+      "path": "../MemoryLeak/MemoryLeak.csproj",
+      "msbuildProject": "../MemoryLeak/MemoryLeak.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GarbageCollection >= 1.0.0",
+      "MemoryLeak >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\C#\\GarbageCollection\\GarbageCollection.App\\GarbageCollection.App.csproj",
+      "projectName": "GarbageCollection.App",
+      "projectPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\C#\\GarbageCollection\\GarbageCollection.App\\GarbageCollection.App.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\C#\\GarbageCollection\\GarbageCollection.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\C#\\GarbageCollection\\GarbageCollection\\GarbageCollection.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\C#\\GarbageCollection\\GarbageCollection\\GarbageCollection.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\C#\\GarbageCollection\\MemoryLeak\\MemoryLeak.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\C#\\GarbageCollection\\MemoryLeak\\MemoryLeak.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

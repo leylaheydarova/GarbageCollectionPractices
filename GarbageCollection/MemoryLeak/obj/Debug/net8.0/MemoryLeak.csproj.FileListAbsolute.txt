@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\bin\Debug\net8.0\MemoryLeak.deps.json
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\bin\Debug\net8.0\MemoryLeak.dll
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\bin\Debug\net8.0\MemoryLeak.pdb
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\MemoryLeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\MemoryLeak.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\MemoryLeak.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\MemoryLeak.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\MemoryLeak.dll
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\refint\MemoryLeak.dll
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\MemoryLeak.pdb
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\MemoryLeak\obj\Debug\net8.0\ref\MemoryLeak.dll

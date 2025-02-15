@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.deps.json
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.dll
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.pdb
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.dll
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\refint\GarbageCollection.dll
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.pdb
+C:\Users\User\Desktop\Learning Programming\Student\C#\GarbageCollection\GarbageCollection\obj\Debug\net8.0\ref\GarbageCollection.dll

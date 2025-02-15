@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GarbageCollection.App/1.0.0": {
+        "dependencies": {
+          "GarbageCollection": "1.0.0",
+          "MemoryLeak": "1.0.0"
+        },
+        "runtime": {
+          "GarbageCollection.App.dll": {}
+        }
+      },
+      "GarbageCollection/1.0.0": {
+        "runtime": {
+          "GarbageCollection.dll": {}
+        }
+      },
+      "MemoryLeak/1.0.0": {
+        "runtime": {
+          "MemoryLeak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GarbageCollection.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GarbageCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MemoryLeak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
